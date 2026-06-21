@@ -1,0 +1,178 @@
+{
+  "forecast_next_10_periods": [
+    {
+      "datetime": "2026-06-16",
+      "predicted_price": 585.5546879345628
+    },
+    {
+      "datetime": "2026-06-17",
+      "predicted_price": 585.4808185874152
+    },
+    {
+      "datetime": "2026-06-18",
+      "predicted_price": 585.4444392778706
+    },
+    {
+      "datetime": "2026-06-19",
+      "predicted_price": 585.5461012362736
+    },
+    {
+      "datetime": "2026-06-20",
+      "predicted_price": 585.4690987810719
+    },
+    {
+      "datetime": "2026-06-21",
+      "predicted_price": 585.4642169273751
+    },
+    {
+      "datetime": "2026-06-22",
+      "predicted_price": 585.5350805089809
+    },
+    {
+      "datetime": "2026-06-23",
+      "predicted_price": 585.4639414179683
+    },
+    {
+      "datetime": "2026-06-24",
+      "predicted_price": 585.4790970264208
+    },
+    {
+      "datetime": "2026-06-25",
+      "predicted_price": 585.5236669897986
+    }
+  ],
+  "daily_best_trades": [
+    {
+      "date": "2026-06-01",
+      "best_trade": {
+        "buy_time": "2026-06-01T14:30:00+00:00",
+        "buy_price": 552.57,
+        "sell_time": "2026-06-01T15:00:00+00:00",
+        "sell_price": 554.32,
+        "profit": 1.75,
+        "buy_event": null,
+        "sell_event": null
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "best_trade": {
+        "buy_time": "2026-06-02T16:30:00+00:00",
+        "buy_price": 545.05,
+        "sell_time": "2026-06-02T17:30:00+00:00",
+        "sell_price": 552.45,
+        "profit": 7.400000000000091,
+        "buy_event": null,
+        "sell_event": null
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "best_trade": {
+        "buy_time": "2026-06-03T15:00:00+00:00",
+        "buy_price": 545.12,
+        "sell_time": "2026-06-03T19:30:00+00:00",
+        "sell_price": 556.15,
+        "profit": 11.029999999999973,
+        "buy_event": null,
+        "sell_event": null
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "best_trade": {
+        "buy_time": "2026-06-04T13:30:00+00:00",
+        "buy_price": 552.97,
+        "sell_time": "2026-06-04T15:00:00+00:00",
+        "sell_price": 556.9,
+        "profit": 3.92999999999995,
+        "buy_event": null,
+        "sell_event": null
+      }
+    },
+    {
+      "date": "2026-06-05",
+      "best_trade": {
+        "buy_time": "2026-06-05T17:30:00+00:00",
+        "buy_price": 556.0,
+        "sell_time": "2026-06-05T19:30:00+00:00",
+        "sell_price": 559.5,
+        "profit": 3.5,
+        "buy_event": null,
+        "sell_event": null
+      }
+    },
+    {
+      "date": "2026-06-08",
+      "best_trade": {
+        "buy_time": "2026-06-08T15:30:00+00:00",
+        "buy_price": 554.52,
+        "sell_time": "2026-06-08T17:00:00+00:00",
+        "sell_price": 557.02,
+        "profit": 2.5,
+        "buy_event": null,
+        "sell_event": null
+      }
+    },
+    {
+      "date": "2026-06-09",
+      "best_trade": {
+        "buy_time": "2026-06-09T15:30:00+00:00",
+        "buy_price": 558.66,
+        "sell_time": "2026-06-09T19:00:00+00:00",
+        "sell_price": 565.69,
+        "profit": 7.030000000000086,
+        "buy_event": null,
+        "sell_event": null
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "best_trade": {
+        "buy_time": "2026-06-10T14:30:00+00:00",
+        "buy_price": 565.09,
+        "sell_time": "2026-06-10T16:00:00+00:00",
+        "sell_price": 567.75,
+        "profit": 2.659999999999968,
+        "buy_event": null,
+        "sell_event": null
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "best_trade": {
+        "buy_time": "2026-06-11T14:00:00+00:00",
+        "buy_price": 563.66,
+        "sell_time": "2026-06-11T17:00:00+00:00",
+        "sell_price": 568.72,
+        "profit": 5.060000000000059,
+        "buy_event": null,
+        "sell_event": null
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "best_trade": {
+        "buy_time": "2026-06-12T17:00:00+00:00",
+        "buy_price": 571.78,
+        "sell_time": "2026-06-12T19:00:00+00:00",
+        "sell_price": 581.0,
+        "profit": 9.220000000000027,
+        "buy_event": null,
+        "sell_event": null
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "best_trade": {
+        "buy_time": "2026-06-15T14:00:00+00:00",
+        "buy_price": 587.33,
+        "sell_time": "2026-06-15T15:00:00+00:00",
+        "sell_price": 588.54,
+        "profit": 1.2099999999999227,
+        "buy_event": null,
+        "sell_event": null
+      }
+    }
+  ]
+}

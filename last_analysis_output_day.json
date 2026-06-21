@@ -1,0 +1,682 @@
+[
+  {
+    "date": "2025-07-01",
+    "best_trade": {
+      "buy_time": "2025-07-01T04:00:00+00:00",
+      "buy_price": 1440.6,
+      "sell_time": "2025-07-01T04:30:00+00:00",
+      "sell_price": 1443.1,
+      "profit": 2.5,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-01T11:00:00+00:00",
+        "predicted_price": 1431.1087892125945
+      },
+      {
+        "datetime": "2025-07-01T11:30:00+00:00",
+        "predicted_price": 1430.6635600417399
+      },
+      {
+        "datetime": "2025-07-01T12:00:00+00:00",
+        "predicted_price": 1431.3389266950742
+      },
+      {
+        "datetime": "2025-07-01T12:30:00+00:00",
+        "predicted_price": 1431.524733729898
+      },
+      {
+        "datetime": "2025-07-01T13:00:00+00:00",
+        "predicted_price": 1431.0385314532202
+      }
+    ]
+  },
+  {
+    "date": "2025-07-02",
+    "best_trade": {
+      "buy_time": "2025-07-02T08:00:00+00:00",
+      "buy_price": 1424.7,
+      "sell_time": "2025-07-02T09:30:00+00:00",
+      "sell_price": 1427.8,
+      "profit": 3.099999999999909,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-02T11:00:00+00:00",
+        "predicted_price": 1427.7157314178799
+      },
+      {
+        "datetime": "2025-07-02T11:30:00+00:00",
+        "predicted_price": 1427.2791141911302
+      },
+      {
+        "datetime": "2025-07-02T12:00:00+00:00",
+        "predicted_price": 1427.9779493040155
+      },
+      {
+        "datetime": "2025-07-02T12:30:00+00:00",
+        "predicted_price": 1427.2384495803026
+      },
+      {
+        "datetime": "2025-07-02T13:00:00+00:00",
+        "predicted_price": 1427.8639195647447
+      }
+    ]
+  },
+  {
+    "date": "2025-07-03",
+    "best_trade": {
+      "buy_time": "2025-07-03T04:00:00+00:00",
+      "buy_price": 1432.3,
+      "sell_time": "2025-07-03T04:30:00+00:00",
+      "sell_price": 1444.6,
+      "profit": 12.299999999999955,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-03T11:00:00+00:00",
+        "predicted_price": 1425.8374805471408
+      },
+      {
+        "datetime": "2025-07-03T11:30:00+00:00",
+        "predicted_price": 1427.1345612876044
+      },
+      {
+        "datetime": "2025-07-03T12:00:00+00:00",
+        "predicted_price": 1426.1994010148796
+      },
+      {
+        "datetime": "2025-07-03T12:30:00+00:00",
+        "predicted_price": 1426.782451988872
+      },
+      {
+        "datetime": "2025-07-03T13:00:00+00:00",
+        "predicted_price": 1426.4281422505303
+      }
+    ]
+  },
+  {
+    "date": "2025-07-04",
+    "best_trade": {
+      "buy_time": "2025-07-04T07:00:00+00:00",
+      "buy_price": 1423.2,
+      "sell_time": "2025-07-04T10:00:00+00:00",
+      "sell_price": 1442.8,
+      "profit": 19.59999999999991,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-04T11:00:00+00:00",
+        "predicted_price": 1443.7550084376169
+      },
+      {
+        "datetime": "2025-07-04T11:30:00+00:00",
+        "predicted_price": 1443.9510363949453
+      },
+      {
+        "datetime": "2025-07-04T12:00:00+00:00",
+        "predicted_price": 1443.9044604166663
+      },
+      {
+        "datetime": "2025-07-04T12:30:00+00:00",
+        "predicted_price": 1443.8691979415328
+      },
+      {
+        "datetime": "2025-07-04T13:00:00+00:00",
+        "predicted_price": 1443.863860023212
+      }
+    ]
+  },
+  {
+    "date": "2025-07-07",
+    "best_trade": {
+      "buy_time": "2025-07-07T07:30:00+00:00",
+      "buy_price": 1430.0,
+      "sell_time": "2025-07-07T10:00:00+00:00",
+      "sell_price": 1435.7,
+      "profit": 5.7000000000000455,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-07T11:00:00+00:00",
+        "predicted_price": 1434.8223717835408
+      },
+      {
+        "datetime": "2025-07-07T11:30:00+00:00",
+        "predicted_price": 1436.947890602123
+      },
+      {
+        "datetime": "2025-07-07T12:00:00+00:00",
+        "predicted_price": 1435.7749054412582
+      },
+      {
+        "datetime": "2025-07-07T12:30:00+00:00",
+        "predicted_price": 1435.2243679571523
+      },
+      {
+        "datetime": "2025-07-07T13:00:00+00:00",
+        "predicted_price": 1436.5502270554898
+      }
+    ]
+  },
+  {
+    "date": "2025-07-08",
+    "best_trade": {
+      "buy_time": "2025-07-08T04:00:00+00:00",
+      "buy_price": 1436.4,
+      "sell_time": "2025-07-08T07:00:00+00:00",
+      "sell_price": 1443.2,
+      "profit": 6.7999999999999545,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-08T11:00:00+00:00",
+        "predicted_price": 1443.4234949853687
+      },
+      {
+        "datetime": "2025-07-08T11:30:00+00:00",
+        "predicted_price": 1441.8541169789653
+      },
+      {
+        "datetime": "2025-07-08T12:00:00+00:00",
+        "predicted_price": 1443.372202636949
+      },
+      {
+        "datetime": "2025-07-08T12:30:00+00:00",
+        "predicted_price": 1441.9121087083029
+      },
+      {
+        "datetime": "2025-07-08T13:00:00+00:00",
+        "predicted_price": 1443.3160492950103
+      }
+    ]
+  },
+  {
+    "date": "2025-07-09",
+    "best_trade": {
+      "buy_time": "2025-07-09T04:00:00+00:00",
+      "buy_price": 1428.6,
+      "sell_time": "2025-07-09T07:30:00+00:00",
+      "sell_price": 1435.4,
+      "profit": 6.800000000000182,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-09T11:00:00+00:00",
+        "predicted_price": 1431.5662871444638
+      },
+      {
+        "datetime": "2025-07-09T11:30:00+00:00",
+        "predicted_price": 1431.7153949105038
+      },
+      {
+        "datetime": "2025-07-09T12:00:00+00:00",
+        "predicted_price": 1431.5108753768302
+      },
+      {
+        "datetime": "2025-07-09T12:30:00+00:00",
+        "predicted_price": 1431.6113945668765
+      },
+      {
+        "datetime": "2025-07-09T13:00:00+00:00",
+        "predicted_price": 1431.4854471554015
+      }
+    ]
+  },
+  {
+    "date": "2025-07-10",
+    "best_trade": {
+      "buy_time": "2025-07-10T08:30:00+00:00",
+      "buy_price": 1425.3,
+      "sell_time": "2025-07-10T09:00:00+00:00",
+      "sell_price": 1426.8,
+      "profit": 1.5,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-10T11:00:00+00:00",
+        "predicted_price": 1424.357065464656
+      },
+      {
+        "datetime": "2025-07-10T11:30:00+00:00",
+        "predicted_price": 1425.4199291048144
+      },
+      {
+        "datetime": "2025-07-10T12:00:00+00:00",
+        "predicted_price": 1425.4378593877304
+      },
+      {
+        "datetime": "2025-07-10T12:30:00+00:00",
+        "predicted_price": 1425.50189144601
+      },
+      {
+        "datetime": "2025-07-10T13:00:00+00:00",
+        "predicted_price": 1425.5031187610787
+      }
+    ]
+  },
+  {
+    "date": "2025-07-11",
+    "best_trade": {
+      "buy_time": "2025-07-11T06:00:00+00:00",
+      "buy_price": 1415.2,
+      "sell_time": "2025-07-11T10:00:00+00:00",
+      "sell_price": 1421.9,
+      "profit": 6.7000000000000455,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-11T11:00:00+00:00",
+        "predicted_price": 1421.6349238458215
+      },
+      {
+        "datetime": "2025-07-11T11:30:00+00:00",
+        "predicted_price": 1420.4678294005155
+      },
+      {
+        "datetime": "2025-07-11T12:00:00+00:00",
+        "predicted_price": 1419.5232300027822
+      },
+      {
+        "datetime": "2025-07-11T12:30:00+00:00",
+        "predicted_price": 1419.6592391853535
+      },
+      {
+        "datetime": "2025-07-11T13:00:00+00:00",
+        "predicted_price": 1420.6915348649418
+      }
+    ]
+  },
+  {
+    "date": "2025-07-14",
+    "best_trade": {
+      "buy_time": "2025-07-14T05:30:00+00:00",
+      "buy_price": 1417.1,
+      "sell_time": "2025-07-14T09:30:00+00:00",
+      "sell_price": 1423.5,
+      "profit": 6.400000000000091,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-14T11:00:00+00:00",
+        "predicted_price": 1422.854338242506
+      },
+      {
+        "datetime": "2025-07-14T11:30:00+00:00",
+        "predicted_price": 1422.333165692918
+      },
+      {
+        "datetime": "2025-07-14T12:00:00+00:00",
+        "predicted_price": 1422.1004938967824
+      },
+      {
+        "datetime": "2025-07-14T12:30:00+00:00",
+        "predicted_price": 1421.86304618689
+      },
+      {
+        "datetime": "2025-07-14T13:00:00+00:00",
+        "predicted_price": 1421.7083397865797
+      }
+    ]
+  },
+  {
+    "date": "2025-07-15",
+    "best_trade": {
+      "buy_time": "2025-07-15T04:00:00+00:00",
+      "buy_price": 1422.5,
+      "sell_time": "2025-07-15T10:00:00+00:00",
+      "sell_price": 1432.0,
+      "profit": 9.5,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-15T11:00:00+00:00",
+        "predicted_price": 1429.3535033712337
+      },
+      {
+        "datetime": "2025-07-15T11:30:00+00:00",
+        "predicted_price": 1431.5958246103594
+      },
+      {
+        "datetime": "2025-07-15T12:00:00+00:00",
+        "predicted_price": 1430.1019050977961
+      },
+      {
+        "datetime": "2025-07-15T12:30:00+00:00",
+        "predicted_price": 1430.2531356718428
+      },
+      {
+        "datetime": "2025-07-15T13:00:00+00:00",
+        "predicted_price": 1431.0741895142962
+      }
+    ]
+  },
+  {
+    "date": "2025-07-16",
+    "best_trade": {
+      "buy_time": "2025-07-16T04:00:00+00:00",
+      "buy_price": 1420.8,
+      "sell_time": "2025-07-16T09:30:00+00:00",
+      "sell_price": 1428.0,
+      "profit": 7.2000000000000455,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-16T11:00:00+00:00",
+        "predicted_price": 1426.1358353774312
+      },
+      {
+        "datetime": "2025-07-16T11:30:00+00:00",
+        "predicted_price": 1426.0148389492265
+      },
+      {
+        "datetime": "2025-07-16T12:00:00+00:00",
+        "predicted_price": 1426.0058384038846
+      },
+      {
+        "datetime": "2025-07-16T12:30:00+00:00",
+        "predicted_price": 1426.0470997052305
+      },
+      {
+        "datetime": "2025-07-16T13:00:00+00:00",
+        "predicted_price": 1426.0911639291537
+      }
+    ]
+  },
+  {
+    "date": "2025-07-17",
+    "best_trade": {
+      "buy_time": "2025-07-17T05:00:00+00:00",
+      "buy_price": 1410.4,
+      "sell_time": "2025-07-17T08:30:00+00:00",
+      "sell_price": 1420.6,
+      "profit": 10.199999999999818,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-17T11:00:00+00:00",
+        "predicted_price": 1417.803866062284
+      },
+      {
+        "datetime": "2025-07-17T11:30:00+00:00",
+        "predicted_price": 1418.3702414995612
+      },
+      {
+        "datetime": "2025-07-17T12:00:00+00:00",
+        "predicted_price": 1417.519771333129
+      },
+      {
+        "datetime": "2025-07-17T12:30:00+00:00",
+        "predicted_price": 1418.1249295154676
+      },
+      {
+        "datetime": "2025-07-17T13:00:00+00:00",
+        "predicted_price": 1417.3085058632905
+      }
+    ]
+  },
+  {
+    "date": "2025-07-21",
+    "best_trade": {
+      "buy_time": "2025-07-21T04:00:00+00:00",
+      "buy_price": 1442.1,
+      "sell_time": "2025-07-21T09:30:00+00:00",
+      "sell_price": 1465.9,
+      "profit": 23.800000000000182,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-21T11:00:00+00:00",
+        "predicted_price": 1463.381784502733
+      },
+      {
+        "datetime": "2025-07-21T11:30:00+00:00",
+        "predicted_price": 1460.9848323253257
+      },
+      {
+        "datetime": "2025-07-21T12:00:00+00:00",
+        "predicted_price": 1461.5132021486131
+      },
+      {
+        "datetime": "2025-07-21T12:30:00+00:00",
+        "predicted_price": 1461.3327857307986
+      },
+      {
+        "datetime": "2025-07-21T13:00:00+00:00",
+        "predicted_price": 1461.388059421336
+      }
+    ]
+  },
+  {
+    "date": "2025-07-22",
+    "best_trade": {
+      "buy_time": "2025-07-22T04:00:00+00:00",
+      "buy_price": 1473.0,
+      "sell_time": "2025-07-22T05:00:00+00:00",
+      "sell_price": 1478.4,
+      "profit": 5.400000000000091,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-22T11:00:00+00:00",
+        "predicted_price": 1472.8990971086419
+      },
+      {
+        "datetime": "2025-07-22T11:30:00+00:00",
+        "predicted_price": 1472.8433313703306
+      },
+      {
+        "datetime": "2025-07-22T12:00:00+00:00",
+        "predicted_price": 1473.4049755476703
+      },
+      {
+        "datetime": "2025-07-22T12:30:00+00:00",
+        "predicted_price": 1472.8030929522338
+      },
+      {
+        "datetime": "2025-07-22T13:00:00+00:00",
+        "predicted_price": 1473.0915389251295
+      }
+    ]
+  },
+  {
+    "date": "2025-07-24",
+    "best_trade": {
+      "buy_time": "2025-07-24T04:00:00+00:00",
+      "buy_price": 1483.5,
+      "sell_time": "2025-07-24T07:00:00+00:00",
+      "sell_price": 1486.5,
+      "profit": 3.0,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-24T11:00:00+00:00",
+        "predicted_price": 1485.119143447048
+      },
+      {
+        "datetime": "2025-07-24T11:30:00+00:00",
+        "predicted_price": 1485.1586650171364
+      },
+      {
+        "datetime": "2025-07-24T12:00:00+00:00",
+        "predicted_price": 1484.3309054116048
+      },
+      {
+        "datetime": "2025-07-24T12:30:00+00:00",
+        "predicted_price": 1484.22817657613
+      },
+      {
+        "datetime": "2025-07-24T13:00:00+00:00",
+        "predicted_price": 1484.6182849601737
+      }
+    ]
+  },
+  {
+    "date": "2025-07-25",
+    "best_trade": {
+      "buy_time": "2025-07-25T07:00:00+00:00",
+      "buy_price": 1475.1,
+      "sell_time": "2025-07-25T08:00:00+00:00",
+      "sell_price": 1478.8,
+      "profit": 3.7000000000000455,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-25T11:00:00+00:00",
+        "predicted_price": 1476.7271434577615
+      },
+      {
+        "datetime": "2025-07-25T11:30:00+00:00",
+        "predicted_price": 1476.624656894006
+      },
+      {
+        "datetime": "2025-07-25T12:00:00+00:00",
+        "predicted_price": 1476.5658364263252
+      },
+      {
+        "datetime": "2025-07-25T12:30:00+00:00",
+        "predicted_price": 1476.520778657877
+      },
+      {
+        "datetime": "2025-07-25T13:00:00+00:00",
+        "predicted_price": 1476.4842686576642
+      }
+    ]
+  },
+  {
+    "date": "2025-07-29",
+    "best_trade": {
+      "buy_time": "2025-07-29T05:00:00+00:00",
+      "buy_price": 1481.0,
+      "sell_time": "2025-07-29T08:30:00+00:00",
+      "sell_price": 1487.9,
+      "profit": 6.900000000000091,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-29T11:00:00+00:00",
+        "predicted_price": 1483.8071866129274
+      },
+      {
+        "datetime": "2025-07-29T11:30:00+00:00",
+        "predicted_price": 1485.8394363026446
+      },
+      {
+        "datetime": "2025-07-29T12:00:00+00:00",
+        "predicted_price": 1485.55034412183
+      },
+      {
+        "datetime": "2025-07-29T12:30:00+00:00",
+        "predicted_price": 1484.673539472465
+      },
+      {
+        "datetime": "2025-07-29T13:00:00+00:00",
+        "predicted_price": 1485.5152303445866
+      }
+    ]
+  },
+  {
+    "date": "2025-07-30",
+    "best_trade": {
+      "buy_time": "2025-07-30T04:00:00+00:00",
+      "buy_price": 1478.4,
+      "sell_time": "2025-07-30T06:00:00+00:00",
+      "sell_price": 1487.9,
+      "profit": 9.5,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-30T11:00:00+00:00",
+        "predicted_price": 1482.9568869376033
+      },
+      {
+        "datetime": "2025-07-30T11:30:00+00:00",
+        "predicted_price": 1481.495290704716
+      },
+      {
+        "datetime": "2025-07-30T12:00:00+00:00",
+        "predicted_price": 1483.4952146394812
+      },
+      {
+        "datetime": "2025-07-30T12:30:00+00:00",
+        "predicted_price": 1481.4570588259317
+      },
+      {
+        "datetime": "2025-07-30T13:00:00+00:00",
+        "predicted_price": 1483.024687558359
+      }
+    ]
+  },
+  {
+    "date": "2025-07-31",
+    "best_trade": {
+      "buy_time": "2025-07-31T04:30:00+00:00",
+      "buy_price": 1465.1,
+      "sell_time": "2025-07-31T08:00:00+00:00",
+      "sell_price": 1493.3,
+      "profit": 28.200000000000045,
+      "buy_event": null,
+      "sell_event": null
+    },
+    "forecast": [
+      {
+        "datetime": "2025-07-31T11:00:00+00:00",
+        "predicted_price": 1476.809763684096
+      },
+      {
+        "datetime": "2025-07-31T11:30:00+00:00",
+        "predicted_price": 1480.247619167454
+      },
+      {
+        "datetime": "2025-07-31T12:00:00+00:00",
+        "predicted_price": 1476.9729698077556
+      },
+      {
+        "datetime": "2025-07-31T12:30:00+00:00",
+        "predicted_price": 1479.7738658273438
+      },
+      {
+        "datetime": "2025-07-31T13:00:00+00:00",
+        "predicted_price": 1477.2643638160669
+      }
+    ]
+  }
+]

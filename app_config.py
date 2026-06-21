@@ -1,0 +1,29 @@
+# config.py
+TRADING_MODES = ("LIVE", "BACKTEST")
+ORDER_MODES = ("REAL", "SIMULATION")
+
+DEFAULT_INTERVAL = "1second"
+
+MAX_DAILY_LOSS = 2000        # ₹
+MAX_TRADES_PER_DAY = 5
+
+# WS reconnect
+RECONNECT_BASE_DELAY = 2
+RECONNECT_MAX_RETRIES = 10
+
+DB_CONFIG = {
+    "host": "localhost",
+    "dbname": "trading",
+    "user": "postgres",
+    "password": "postgres",
+    "port": 5432
+}
+
+SYMBOL = "RELIANCE"
+INTERVAL = "5minute"
+QTY = 1
+
+BREEZE_API_KEY='S777aZF14T5u7983r166461c7Iz5*#S4'
+BREEZE_API_SECRETE='6%7sKf076E415+9D0739604Gal5m8k2('
+BREEZE_API_SESSION='55965816'
+BREEZE_CLIENT_CODE='MAHVW003'
