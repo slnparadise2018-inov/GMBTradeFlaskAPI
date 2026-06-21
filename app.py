@@ -25,6 +25,11 @@ import signal, sys, csv
 from workers.breeze_ws_worker import start_worker, stop_worker, status, ws_clients
 
 app = Flask(__name__)
+
+# SSL certificate handling
+CERT_FILE = "./corporate_proxy_cert.pem"
+REQUEST_VERIFY = CERT_FILE if os.path.exists(CERT_FILE) else True
+
 sock = Sock(app)
 
 from app_config import (
@@ -248,7 +253,7 @@ def find_best_buy_sell(df):
 def get_gdelt_events1(start_date, end_date):
     query = f"SELECT DATE, EventCode, Actor1Name, Actor2Name FROM gdeltv2 WHERE DATE BETWEEN '{start_date}' AND '{end_date}'"
     response = requests.get(f'https://api.gdeltproject.org/api/v2/doc/doc?query={query}&format=json',
-                            verify='./corporate_proxy_cert.pem')
+                            verify=REQUEST_VERIFY)
     data = response.json()
 
     events = []
@@ -276,7 +281,7 @@ def get_gdelt_events2(start_date, end_date):
     url = f'https://api.gdeltproject.org/api/v2/doc/doc?query={query}&mode=artlist&maxrecords=250&format=json'
 
     try:
-        response = requests.get(url, verify='./corporate_proxy_cert.pem', timeout=10)
+        response = requests.get(url, verify=REQUEST_VERIFY, timeout=10)
         print("🔗 GDELT API status:", response.status_code)
 
         print("🔎 Response preview:", response.text[:300])
@@ -322,7 +327,7 @@ def fetch_gdelt_events_for_date(date_str):
         )
         #print(f"🔗 URL: {url}")
 
-        response = requests.get(url, verify='./corporate_proxy_cert.pem', timeout=10)
+        response = requests.get(url, verify=REQUEST_VERIFY, timeout=10)
         
         if response.status_code == 404:
             print(f"ℹ️ No GDELT events found for {date_str}")
@@ -381,7 +386,7 @@ def get_gdelt_events(start_date, end_date):
 
         print(f"url: {url}")
     
-        response = requests.get(url, verify='./corporate_proxy_cert.pem', timeout=10)
+        response = requests.get(url, verify=REQUEST_VERIFY, timeout=10)
         print("🔗 GDELT API status:", response.status_code)
         #print("🔎 Response preview:", response.text[:300])
         data = response.json()
