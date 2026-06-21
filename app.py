@@ -8,6 +8,7 @@ import pandas as pd
 import numpy as np
 import json
 import os
+from dotenv import load_dotenv
 import math
 
 import certifi
@@ -29,6 +30,8 @@ app = Flask(__name__)
 # SSL certificate handling
 CERT_FILE = "./corporate_proxy_cert.pem"
 REQUEST_VERIFY = CERT_FILE if os.path.exists(CERT_FILE) else True
+
+# load_dotenv()
 
 sock = Sock(app)
 
@@ -61,6 +64,7 @@ from breeze_connect import BreezeConnect
 
 # Setup my API keys 
 api = BreezeConnect(api_key=BREEZE_API_KEY)
+print("Session Key : " + BREEZE_API_SESSION)
 api.generate_session(api_secret=BREEZE_API_SECRETE,session_token=BREEZE_API_SESSION)
 
 

@@ -1,5 +1,13 @@
 # config.py
+from dotenv import load_dotenv
 import os
+
+env_loaded = load_dotenv(override=True)
+
+print("load_dotenv returned:", env_loaded)
+
+print("BREEZE_API_KEY =", os.getenv("BREEZE_API_KEY"))
+print("BREEZE_API_SESSION =", os.getenv("BREEZE_API_SESSION"))
 
 TRADING_MODES = ("LIVE", "BACKTEST")
 ORDER_MODES = ("REAL", "SIMULATION")
@@ -29,3 +37,4 @@ BREEZE_API_KEY=os.getenv('BREEZE_API_KEY')
 BREEZE_API_SECRETE=os.getenv('BREEZE_API_SECRETE')
 BREEZE_API_SESSION=os.getenv('BREEZE_API_SESSION')
 BREEZE_CLIENT_CODE=os.getenv('BREEZE_CLIENT_CODE')
+

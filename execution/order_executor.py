@@ -6,6 +6,7 @@ from app_config import (
 )
 
 breeze = BreezeConnect(api_key=BREEZE_API_KEY)
+print("Order executor: Session Key : " + BREEZE_API_SESSION)
 breeze.generate_session(
     api_secret=BREEZE_API_SECRETE,
     session_token=BREEZE_API_SESSION
